@@ -26,7 +26,7 @@ We believe in **sharing knowledge** with the community and **building secure sys
 
 ## 🧠 About Us
 
-Knot Security delivers end-to-end VAPT services across web apps, APIs, cloud infrastructure, and networks. Whether you're a startup or an enterprise, we help identify risks before attackers do.
+Knot Security delivers end-to-end VAPT services across Web Applicaions, APIs, Mobile Apps, and Networks. Whether you're a startup or an enterprise, we help identify risks before attackers do.
 
 Learn more at [**knotsecurity.in**](https://knotsecurity.in)
 
@@ -42,8 +42,3 @@ Learn more at [**knotsecurity.in**](https://knotsecurity.in)
 ---
 
 > _"Secure the knots before they unravel." – Team Knot Security_
-
-<!---
-Knotsecurity/Knotsecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
